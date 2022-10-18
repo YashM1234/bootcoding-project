@@ -25,6 +25,7 @@ food ordering business and build project using Core Java, JDBC and SQL to offer 
 - state
 - phoneNumber
 - emailId
+
 ## Vendor
 - vendorId
 - name
