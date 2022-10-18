@@ -70,7 +70,7 @@ public class Application {
         //Creating Object for VendorDAO Class
         VendorDAO vendorDAO = new VendorDAO();
         vendorDAO.createTable();
-//
+
         //Creating Object for CustomerOrderDAO Class
         CustomerOrderDAO customerOrderDAO = new CustomerOrderDAO();
         customerOrderDAO.createTable();
