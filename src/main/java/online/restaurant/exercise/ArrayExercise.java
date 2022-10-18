@@ -33,6 +33,5 @@ public class ArrayExercise {
             System.out.println(months[i]);
         }
 
-
     }
 }

@@ -11,8 +11,9 @@ public class ArrayListExercise {
         age.add(30);
         age.add(40);
         age.add(50);
+        age.add(60);
 
-        for (int i=0; i<age.size();i++){
+        for(int i=0; i<age.size();i++){
             System.out.println(age.get(i));
         }
     }
